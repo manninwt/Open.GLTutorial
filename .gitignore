@@ -2,4 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/Open.GLTutorial/v17/Current/Browse.VC.db
+/.vs/*
+/.vs/OpenGLTutorial/v17
+/.vs/OpenGLTutorial/v17/Current
+**/x64/Debug/* 

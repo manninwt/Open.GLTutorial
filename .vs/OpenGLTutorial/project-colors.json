@@ -1,5 +1,11 @@
 {
   "Version": 1,
-  "ProjectMap": {},
-  "NextColorIndex": 0
+  "ProjectMap": {
+    "e7fbda3f-215a-42d6-aa2d-08e46ebeeb13": {
+      "ProjectGuid": "e7fbda3f-215a-42d6-aa2d-08e46ebeeb13",
+      "DisplayName": "OpenGLTutorial",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
 }
